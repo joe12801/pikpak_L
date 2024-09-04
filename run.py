@@ -104,7 +104,7 @@ def s(e):
         t = u(31 * t + ord(e[r]))
     return t
 
-
+#11
 def u(e):
     t = -2147483648
     n = 2147483647
